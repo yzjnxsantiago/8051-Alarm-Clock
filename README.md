@@ -1,2 +1,1 @@
-# ELEC291-lab2
-Alarm Clock on 8051 Microprocessor
+Alarm clock on 8051 Microprocessor programmed in assembly
